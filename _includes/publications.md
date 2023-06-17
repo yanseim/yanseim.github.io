@@ -40,7 +40,7 @@ Collaboration with a Mixed AR-Haptic Interface</a></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2210.06003.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://github.com/yanseim/Vision-Based-Control" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <a href="https://www.youtube.com/watch?v=zY3aPHQEx0E&t=10s" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:j13pvC4K9VcJ:scholar.google.com/&output=citation&scisdr=Cm0hd0cQENX4vhVgIhk:AGlGAw8AAAAAZI1mOhm1mRHWa-ffW0Lypr0i8hM&scisig=AGlGAw8AAAAAZI1mOlTD-In5NYlzSos8W0M6FzM&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
