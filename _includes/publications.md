@@ -37,7 +37,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2210.06003.pdf">A Complementary Framework for Human-Robot
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10220214">A Complementary Framework for Human-Robot
 Collaboration with a Mixed AR-Haptic Interface</a></div>
     <div class="author"><strong>Xiangjie Yan</strong>, Yongpeng Jiang, Chen Chen, Leiliang Gong, Ming Ge, Tao Zhang, and Xiang Li</div>
     <div class="periodical"><em>IEEE Transactions on Control Systems Technology <strong>(TCST)</strong>, 2023.</em></div>
