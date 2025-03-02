@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-My name is Xiangjie Yan (严相杰). I'm a robotics learner and now a fourth-year Ph.D. student in the Department of Automation at Tsinghua University, advised by [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). Before that, I received my B.E. degree in Ocean College at Zhejiang University. 😄 I’m currently working on human-robot interaction.
+My name is Xiangjie Yan (严相杰). I'm a robotics learner and now a fifth-year Ph.D. student in the Department of Automation at Tsinghua University, advised by [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). Before that, I received my B.E. degree in Ocean College at Zhejiang University. 😄 I’m currently working on human-robot interaction and medical robots.
 
 ## Research Interests
 
-<!-- - **Robotics:** human-robot interaction; robot manipulation -->
-**Robotics:** human-robot interaction; robot manipulation
+<!-- - **Robotics:** human-robot interaction; medical robots -->
+**Robotics:** human-robot interaction; medical robots
 
 <!-- ## News
 
