@@ -56,17 +56,17 @@ Collaboration with a Mixed AR-Haptic Interface</a></div>
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/iros2024.gif" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Arxiv</abbr>
+    <abbr class="badge">IROS</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2411.19545">Multi-Modal Interaction Control of Ultrasound Scanning Robots with Safe Human Guidance and Contact Recovery</a></div>
     <div class="author"><strong>Xiangjie Yan</strong>, Shaqi Luo, Yongpeng Jiang, Mingrui Yu, Chen Chen, Senqiang Zhu, Gao Huang, Shiji Song and Xiang Li</div>
-    <div class="periodical"><em>IROS <strong>(IROS)</strong>, 2024.</em></div>
+    <div class="periodical"><em>IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2411.19545.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://github.com/yanseim/Vision-Based-Control" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <a href="https://yanseim.gihub.io/iros24ultrasound" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:AeZVQ15NBVsJ:scholar.google.com/&output=citation&scisdr=ClGnnm9GEJPZjH5rztE:AFWwaeYAAAAAZ8Rt1tEZG9vRTXnn7FspfmyeMLA&scisig=AFWwaeYAAAAAZ8Rt1tcEo2jxrCUSGQNPnc5yj-w&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
     </div>
