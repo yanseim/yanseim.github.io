@@ -9,7 +9,7 @@ My name is Xiangjie Yan (严相杰). I'm a robotics learner and now a fifth-year
 ## Research Interests
 
 <!-- - **Robotics:** human-robot interaction; medical robots -->
-**Robotics:** human-robot interaction; medical robots
+**Robotics:** human-robot interaction; medical robots; embodied AI
 
 <!-- ## News
 
