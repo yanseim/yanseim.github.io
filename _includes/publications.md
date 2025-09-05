@@ -95,7 +95,52 @@ Collaboration with a Mixed AR-Haptic Interface</a></div>
   </div>
 </div>
 
+<!-- haojun NC -->
+<div class="pub-row">
 
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ultrabot.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">TCST</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.nature.com/articles/s41467-025-62865-w">Towards expert-level autonomous carotid ultrasonography with large-scale learning-based robotic system</a></div>
+    <div class="author">
+    Haojun Jiang, Andrew Zhao, Qian Yang, <strong>Xiangjie Yan</strong>, Teng Wang, Yulin Wang, Ning Jia, Jiangshan Wang, Guokun Wu, Yang Yue, Shaqi Luo, Huanqian Wang, Ling Ren, Siming Chen, Pan Liu, Guocai Yao, Wenming Yang, Shiji Song, Xiang Li, Kunlun He，and Gao Huang
+    </div>
+    <div class="periodical"><em>Nature Communication <strong>(NC)</strong>, 2025.</em></div>
+    <div class="links">
+      <a href="https://www.nature.com/articles/s41467-025-62865-w" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://github.com/yanseim/Vision-Based-Control" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://www.nature.com/articles/s41467-025-62865-w#additional-information:~:text=First%20Demonstration%20of,with%20Plaque%20Video" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+      <!-- <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:j13pvC4K9VcJ:scholar.google.com/&output=citation&scisdr=Cm0hd0cQENX4vhVgIhk:AGlGAw8AAAAAZI1mOhm1mRHWa-ffW0Lypr0i8hM&scisig=AGlGAw8AAAAAZI1mOlTD-In5NYlzSos8W0M6FzM&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+
+
+<!-- iros 25 -->
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ultradp.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Arxiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ultradp.github.io/">UltraDP: Generalizable Carotid Ultrasound Scanning with Force-Aware Diffusion Policy</a></div>
+    <div class="author">Ruoqu Chen, <strong>Xiangjie Yan</strong>, Kangchen Lv, Gao Huang, and Xiang Li</div>
+    <div class="periodical"><em>IROS <strong>(IROS)</strong>, 2025.</em></div>
+    <div class="links">
+      <a href="https://ultradp.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://github.com/yanseim/Vision-Based-Control" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <a href="https://ultradp.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
 
 </li>
   
