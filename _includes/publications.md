@@ -8,7 +8,7 @@
 <!-- icra 25 -->
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ultrahit_icra25.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/ultrahit2.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICRA</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -17,6 +17,8 @@
     <div class="periodical"><em>IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2509.13832" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://ultrahit-thu.github.io/UltraHiT/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://github.com/LeapLabTHU/UltraHiT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
     </div>
   </div>
@@ -44,7 +46,7 @@
   </div>
 </div>
 
-<!-- haojun NC -->
+<!-- haojun NC 2025-->
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -67,6 +69,30 @@
     </div>
   </div>
 </div>
+
+<!-- tcst24 -->
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/tcst22.gif" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">TCST</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10220214">A Complementary Framework for Human-Robot
+Collaboration with a Mixed AR-Haptic Interface</a></div>
+    <div class="author"><strong>Xiangjie Yan</strong>, Yongpeng Jiang, Chen Chen, Leiliang Gong, Ming Ge, Tao Zhang, and Xiang Li</div>
+    <div class="periodical"><em>IEEE Transactions on Control Systems Technology <strong>(TCST)</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/document/10220214" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://github.com/yanseim/Vision-Based-Control" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://www.youtube.com/watch?v=zY3aPHQEx0E&t=10s" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:j13pvC4K9VcJ:scholar.google.com/&output=citation&scisdr=Cm0hd0cQENX4vhVgIhk:AGlGAw8AAAAAZI1mOhm1mRHWa-ffW0Lypr0i8hM&scisig=AGlGAw8AAAAAZI1mOlTD-In5NYlzSos8W0M6FzM&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+
 
 <!-- iros24 -->
 <div class="pub-row">
@@ -109,29 +135,6 @@
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:8i8vrw9QXKIJ:scholar.google.com/&output=citation&scisdr=Cm0hd0cQENX4vhVk-HE:AGlGAw8AAAAAZI1i4HGC_ti_lwnP6SXKS6G32mw&scisig=AGlGAw8AAAAAZI1i4AwDmL64T503fEJ2lkWfWB8&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-    </div>
-  </div>
-</div>
-
-<!-- tcst22 -->
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/tcst22.gif" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">TCST</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/10220214">A Complementary Framework for Human-Robot
-Collaboration with a Mixed AR-Haptic Interface</a></div>
-    <div class="author"><strong>Xiangjie Yan</strong>, Yongpeng Jiang, Chen Chen, Leiliang Gong, Ming Ge, Tao Zhang, and Xiang Li</div>
-    <div class="periodical"><em>IEEE Transactions on Control Systems Technology <strong>(TCST)</strong>, 2023.</em></div>
-    <div class="links">
-      <a href="https://ieeexplore.ieee.org/document/10220214" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <a href="https://github.com/yanseim/Vision-Based-Control" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <a href="https://www.youtube.com/watch?v=zY3aPHQEx0E&t=10s" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:j13pvC4K9VcJ:scholar.google.com/&output=citation&scisdr=Cm0hd0cQENX4vhVgIhk:AGlGAw8AAAAAZI1mOhm1mRHWa-ffW0Lypr0i8hM&scisig=AGlGAw8AAAAAZI1mOlTD-In5NYlzSos8W0M6FzM&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
 </div>
